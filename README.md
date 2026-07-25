@@ -150,3 +150,33 @@ npm run build
 ### Final Results
 
 ![Results](screenshot%20final%20band.jpeg)
+## 👩‍💻 Author
+
+**Mehnaz Zeb**
+
+- MPhil in English Applied Linguistics
+- IELTS Speaking Examiner
+- AI and Educational Technology Enthusiast
+
+---
+
+## 📄 License
+
+This project was developed as an individual academic project for the ACT AI Final Project.
+
+It is intended for educational and demonstration purposes.
+
+---
+
+## 🙏 Acknowledgements
+
+Special thanks to the following technologies and services used in this project:
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Google Gemini AI
+- Web Speech API
+- GitHub
+- Vercel
