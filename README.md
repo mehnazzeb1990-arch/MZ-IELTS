@@ -16,3 +16,30 @@ Many IELTS candidates struggle to improve their speaking skills because:
 - Learners need instant, personalized feedback to improve.
 
 MZ IELTS Speaking Partner solves these problems by providing an AI-powered IELTS speaking simulator that offers realistic practice, instant evaluation, estimated band scores, and personalized feedback. It is designed for IELTS candidates preparing for the Academic or General Training IELTS exam.
+## 🌍 Live Demo
+
+**Live Application:**
+https://mz-ielts.vercel.app
+
+Practice IELTS Speaking online using the link above.
+## 📷 Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.jpeg)
+
+### IELTS Speaking Test – Part 1
+
+![Part 1](screenshots/part1.jpeg)
+
+### IELTS Speaking Test – Part 2
+
+![Part 2](screenshots/part2.jpeg)
+
+### IELTS Speaking Test – Part 3
+
+![Part 3](screenshots/part3.jpeg)
+
+### Final Results
+
+![Results](screenshots/results.jpeg)
