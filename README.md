@@ -1,38 +1,18 @@
-# MZ-IELTS
+# 🎓 MZ IELTS Speaking Partner
 
-AI-powered IELTS practice application designed to simulate the IELTS speaking experience with intelligent evaluation and detailed feedback.
+## Overview
 
-## Features
+MZ IELTS Speaking Partner is an AI-powered web application that helps IELTS candidates practice the IELTS Speaking test in a realistic environment.
 
-- AI-powered IELTS Speaking practice
-- Examiner-style voice interaction
-- Multi-part speaking test simulation:
-  - Part 1: Introduction and Interview
-  - Part 2: Cue Card with preparation timer
-  - Part 3: Discussion and follow-up questions
-- Automated response evaluation
-- IELTS band score calculation
-- Final Band Score report
-- Individual skill score display:
-  - Listening
-  - Reading
-  - Writing
-  - Speaking
-- Official IELTS band descriptors
-- Detailed speaking assessment:
-  - Fluency & Coherence
-  - Lexical Resource
-  - Grammatical Range & Accuracy
-  - Pronunciation
-- Audio summary and score report features
+The application simulates an IELTS Speaking Examiner, conducts a complete speaking test (Parts 1, 2, and 3), evaluates the user's responses, estimates an IELTS band score, and provides detailed feedback for improvement.
 
-## Technology Stack
+## Problem It Solves
 
-- React
-- TypeScript
-- Vite
-- Gemini AI evaluation
-- Web Speech API
-- Netlify deployment
+Many IELTS candidates struggle to improve their speaking skills because:
 
-## Project Structure
+- Professional IELTS coaching is expensive.
+- Students have limited opportunities to practice speaking with an examiner.
+- Most free websites provide questions but do not evaluate responses.
+- Learners need instant, personalized feedback to improve.
+
+MZ IELTS Speaking Partner solves these problems by providing an AI-powered IELTS speaking simulator that offers realistic practice, instant evaluation, estimated band scores, and personalized feedback. It is designed for IELTS candidates preparing for the Academic or General Training IELTS exam.
