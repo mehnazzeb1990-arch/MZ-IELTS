@@ -68,6 +68,30 @@ The AI is instructed to:
 - Evaluate responses using the official IELTS Speaking Band Descriptors.
 - Assess Fluency and Coherence, Lexical Resource, Grammatical Range and Accuracy, and Pronunciation.
 - Provide constructive feedback with suggestions for improvement after the test is completed.
+- ## 🛠️ Tools, Services, and AI Models Used
+
+### Frontend
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+
+### Artificial Intelligence
+- Google Gemini AI API
+
+### Browser APIs
+- Web Speech API (Speech Recognition and Text-to-Speech)
+
+### Development Tools
+- GitHub
+- Visual Studio Code
+- Bolt.new (AI-assisted application development)
+
+### Deployment
+- Vercel
+
+### Version Control
+- GitHub
 ## 📷 Screenshots
 
 ### Home Page
