@@ -92,6 +92,43 @@ The AI is instructed to:
 
 ### Version Control
 - GitHub
+- ## 🚀 How to Run the Project
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/mehnazzeb1990-arch/MZ-IELTS.git
+```
+
+### 2. Navigate to the Project Folder
+
+```bash
+cd MZ-IELTS
+```
+
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the Development Server
+
+```bash
+npm run dev
+```
+
+### 5. Open the Application
+
+Open your browser and visit:
+
+http://localhost:5173
+
+### Build for Production
+
+```bash
+npm run build
+```
 ## 📷 Screenshots
 
 ### Home Page
