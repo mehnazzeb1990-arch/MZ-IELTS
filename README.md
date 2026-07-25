@@ -22,6 +22,26 @@ MZ IELTS Speaking Partner solves these problems by providing an AI-powered IELTS
 https://mz-ielts.vercel.app
 
 Practice IELTS Speaking online using the link above.
+## ✨ Features
+
+- AI-powered IELTS Speaking practice
+- Complete IELTS Speaking Test simulation (Part 1, Part 2, and Part 3)
+- AI examiner that asks IELTS-style questions
+- One-minute preparation timer for Part 2
+- Speaking response evaluation
+- Estimated IELTS band score (0–9)
+- Detailed feedback on:
+  - Fluency & Coherence
+  - Lexical Resource
+  - Grammatical Range & Accuracy
+  - Pronunciation
+- Individual module band score display
+- Official IELTS Band Descriptors
+- Question and Vocabulary Bank
+- Audio summary of results
+- Printable score report
+- Responsive design for desktop and mobile devices
+- Modern and user-friendly interface
 ## 📷 Screenshots
 
 ### Home Page
