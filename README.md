@@ -16,6 +16,15 @@ Many IELTS candidates struggle to improve their speaking skills because:
 - Learners need instant, personalized feedback to improve.
 
 MZ IELTS Speaking Partner solves these problems by providing an AI-powered IELTS speaking simulator that offers realistic practice, instant evaluation, estimated band scores, and personalized feedback. It is designed for IELTS candidates preparing for the Academic or General Training IELTS exam.
+## 🎯 Target Users
+
+This application is designed for:
+
+- IELTS Academic candidates
+- IELTS General Training candidates
+- English language learners
+- Students preparing for university admission
+- Professionals preparing for immigration or employment where IELTS is required
 ## 🌍 Live Demo
 
 **Live Application:**
