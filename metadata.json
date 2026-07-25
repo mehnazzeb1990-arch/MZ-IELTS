@@ -1,0 +1,6 @@
+{
+  "name": "MZ IELTS Speaking Partner",
+  "description": "AI-powered IELTS Speaking Practice app with full 3-part test simulation, voice recognition, real-time timer, dynamic Part 3 follow-ups, and band score evaluation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
