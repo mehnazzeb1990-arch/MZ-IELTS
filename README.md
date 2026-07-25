@@ -26,20 +26,20 @@ Practice IELTS Speaking online using the link above.
 
 ### Home Page
 
-![Home Page](screenshots/home.jpeg)
+![Home Page](screenshot%20homepage.jpeg)
 
 ### IELTS Speaking Test – Part 1
 
-![Part 1](screenshots/part1.jpeg)
+![Part 1](screenshot%20part%201.jpeg)
 
 ### IELTS Speaking Test – Part 2
 
-![Part 2](screenshots/part2.jpeg)
+![Part 2](screenshot%20part%202.jpeg)
 
 ### IELTS Speaking Test – Part 3
 
-![Part 3](screenshots/part3.jpeg)
+![Part 3](screenshot%20part%203.jpeg)
 
 ### Final Results
 
-![Results](screenshots/results.jpeg)
+![Results](screenshot%20final%20band.jpeg)
