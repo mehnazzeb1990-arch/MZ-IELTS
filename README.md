@@ -42,6 +42,32 @@ Practice IELTS Speaking online using the link above.
 - Printable score report
 - Responsive design for desktop and mobile devices
 - Modern and user-friendly interface
+- ## 🤖 AI Feature
+
+MZ IELTS Speaking Partner uses Google Gemini AI to simulate an IELTS Speaking Examiner.
+
+The AI performs the following tasks:
+
+- Conducts a realistic IELTS Speaking interview
+- Asks IELTS-style questions for Parts 1, 2, and 3
+- Evaluates the candidate's responses
+- Estimates an IELTS Speaking band score
+- Provides detailed feedback for improvement
+- Suggests grammar and vocabulary improvements
+- Generates constructive speaking assessment based on IELTS Band Descriptors
+
+### AI System Prompt
+
+The AI is instructed to:
+
+- Act as a professional IELTS Speaking Examiner.
+- Conduct the interview in a friendly and professional manner.
+- Ask only IELTS Speaking questions.
+- Complete all three speaking parts before giving feedback.
+- Never reveal the band score during the interview.
+- Evaluate responses using the official IELTS Speaking Band Descriptors.
+- Assess Fluency and Coherence, Lexical Resource, Grammatical Range and Accuracy, and Pronunciation.
+- Provide constructive feedback with suggestions for improvement after the test is completed.
 ## 📷 Screenshots
 
 ### Home Page
